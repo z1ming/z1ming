@@ -1,4 +1,4 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=z1ming&theme=shades-of-purple&hide=html&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=z1ming&theme=buefy&hide=html&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=z1ming&show_icons=true&theme=shades-of-purple)](https://github.com/anuraghazra/github-readme-stats)
 

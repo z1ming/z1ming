@@ -1,6 +1,6 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=z1ming&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=z1ming&theme=cobalt&hide=html,jupyternotebook)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=z1ming&show_icons=true&theme=cobalt&hide=HTML,language2)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=z1ming&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 ### Hi there 👋

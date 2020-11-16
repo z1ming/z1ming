@@ -1,6 +1,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=z1ming&theme=synthwave&hide=html)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=z1ming&show_icons=true&title_color=35edfb&icon_color=ffff00&text_color=fe58e2&bg_color=2a1739)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=z1ming&show_icons=true&title_color=35edfb&icon_color=ffff00&text_color=00ffff&bg_color=2a1739)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 ### Hi there 👋
